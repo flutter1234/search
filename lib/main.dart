@@ -17,7 +17,7 @@ class search extends StatefulWidget {
 class _searchState extends State<search> {
   bool issearch = false;
   List temp = [];
-  List l = [ "Vijay", "Suresh", "Sanjay", "Akshay", "Mahesh"];
+  List l = ["Vijay", "Suresh", "Sanjay", "Akshay", "Mahesh","Meet"];
 
   @override
   Widget build(BuildContext context) {
